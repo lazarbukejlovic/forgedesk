@@ -2,7 +2,7 @@
 
 Premium full-stack ecommerce product built around considered workspace goods, custom bundle building, persistent customer flows, Stripe checkout, and a role-protected admin back office.
 
-**Repository:** https://github.com/lazarbukejlovic/Forge-Your-Space
+## [Repository](https://github.com/lazarbukejlovic/forgedesk)
 
 ---
 
